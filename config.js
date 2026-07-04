@@ -1,10 +1,10 @@
 /**
- * Ultimate Music Bot - 
+ * Lama Beat - 
  * 
  * @fileoverview 
  * @module ConfigurationManager
  * @version 1.0.0
- * @author GlaceYT
+ * @author yoo_zoldy
  */
 
 const EnvironmentVariableProcessor = require('process').env;
