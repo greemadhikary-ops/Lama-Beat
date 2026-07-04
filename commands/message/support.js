@@ -30,7 +30,7 @@ module.exports = {
                     'Website: COMING SOON!'
                 )
                 .setTimestamp()
-                .setFooter({ text: 'LAMA BEAT • Developed by GlaceYT' });
+                .setFooter({ text: 'LAMA BEAT • Developed by ZOLDY' });
             
             await message.reply({ embeds: [embed] });
         } catch (error) {
