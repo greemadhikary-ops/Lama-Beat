@@ -1,10 +1,10 @@
 /**
- * Ultimate Music Bot 
+ * Lama Beat 
  * Comprehensive Discord Bot
  * 
  * @fileoverview Core application
  * @version 1.0.0
- * @author GlaceYT
+ * @author yoo_zoldy
  */
 
 const DiscordClientFramework = require('discord.js').Client;
